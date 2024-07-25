@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.text{
+ color: aqua ;
+ font-size: larger;
+ text-transform: capitalize;
+ text-decoration: overline;
+}

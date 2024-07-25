@@ -1,0 +1,16 @@
+ul li a{
+    color: red;
+    font-size: large;
+}
+
+img{
+    width:50%;
+}
+
+h3+p{
+color: blue;
+}
+
+ol > li{
+background-color:aqua ;
+}
